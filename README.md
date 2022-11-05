@@ -3,7 +3,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 🔭 I'm currently working on C#... ...
 - 🌱 I’m currently learning ...### Hi there 👋 I'm Sena Ekincioğlu
 #### XXX
 
