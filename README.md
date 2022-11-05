@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🌱 Hi there 👋 I'm Sena Ekincioğlu
-- 
+
 - I am a software developer living in Istanbul, Turkey.
 
 - 🌱 I'm currently learning C# 
