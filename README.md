@@ -5,13 +5,13 @@ Here are some ideas to get you started:
 
 - 🌱 Hi there 👋 I'm Sena Ekincioğlu
 
-- 🌱 I'm currently learning c# 
+- 🌱 I'm currently learning C# 
 - 📫 How to reach me: ekincioglusena1@gmail.com
 
 ### Connect with me:
 
 [<img align="left" alt="devrim-mehmet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sena-ekincio%C4%9Flu-721932213/)
-<!-- [<img align="left" alt="devrim-mehmet | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/senaekncc/))-->
+<!-- [<img align="left" alt="devrim-mehmet | Instagram" width="22px"](https://www.instagram.com/senaekncc/))-->
 <br />
 <br />
 
