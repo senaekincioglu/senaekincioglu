@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 🌱 Hi there 👋 I'm Sena Ekincioğlu
 
-- 🌱 I’m currently learning 
+- 🌱 I'm currently learning c# 
 - 📫 How to reach me: ekincioglusena1@gmail.com
 
 ### Connect with me:
